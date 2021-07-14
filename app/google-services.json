@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601131885720",
+    "firebase_url": "https://triallogin-c5edc-default-rtdb.firebaseio.com",
+    "project_id": "triallogin-c5edc",
+    "storage_bucket": "triallogin-c5edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601131885720:android:07f06061d4cb640973dced",
+        "android_client_info": {
+          "package_name": "com.example.triallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601131885720-l4gcoag3nai50f1rir7u2s62gg4v6o9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnmjhxG8yKFWFTsj1kQc2uRF50Y-tRyN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601131885720-l4gcoag3nai50f1rir7u2s62gg4v6o9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
