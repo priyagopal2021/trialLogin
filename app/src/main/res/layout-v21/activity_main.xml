@@ -17,9 +17,9 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimaryDark"
             app:layout_scrollFlags="scroll|enterAlways"
-            app:popupTheme="@style/Theme.TrialLogin"
-            tools:targetApi="lollipop" />
+            app:popupTheme="@style/Theme.TrialLogin" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -177,5 +177,3 @@
     </LinearLayout>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
-
-<!--android:background="?attr/colorPrimaryLight"-->
